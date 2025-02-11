@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/danial6909/react-todo-list/static/css/main.16d2d6f7.css",
+    "main.js": "/danial6909/react-todo-list/static/js/main.9b84496a.js",
+    "static/media/bg-desktop-light.jpg": "/danial6909/react-todo-list/static/media/bg-desktop-light.3508d620efd5a52bb4ce.jpg",
+    "static/media/bg-desktop-dark.jpg": "/danial6909/react-todo-list/static/media/bg-desktop-dark.73e47dbb723ebc772ef0.jpg",
+    "index.html": "/danial6909/react-todo-list/index.html",
+    "main.16d2d6f7.css.map": "/danial6909/react-todo-list/static/css/main.16d2d6f7.css.map",
+    "main.9b84496a.js.map": "/danial6909/react-todo-list/static/js/main.9b84496a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16d2d6f7.css",
+    "static/js/main.9b84496a.js"
+  ]
+}
